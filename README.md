@@ -5,7 +5,7 @@
 >>觀迎大家來跟我交流，並給予我指教。  
 >>我所有的程式碼與物件都僅作為學習使用，請不要用於營利。  
 >>如果有侵犯到版權，請隨時通知我移除。  
->>謝謝你們 ^__^
+>>謝謝你們 ^__^    
 >>This is a mosquito killing game,  
 >>This project is for my Python learning, although I know that the main development of python is not in games,  
 >>But I still want to fulfill my dream of making a small game.  
