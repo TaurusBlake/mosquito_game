@@ -7,4 +7,4 @@
 >>如果有侵犯到版權，請隨時通知我移除。  
 >>謝謝你們 ^__^  
 ># 遊戲畫面
->>![GITHUB]( https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/ "GameView1.png")
+>>![GITHUB]( https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView1.png "初始畫面")
