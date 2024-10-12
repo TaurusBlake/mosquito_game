@@ -8,3 +8,6 @@
 >>謝謝你們 ^__^  
 ># 遊戲畫面
 >>![GITHUB]( https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView1.png "初始畫面")
+>><div align="center">
+	<img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView1.png" alt="Editor" width="500">
+</div>
