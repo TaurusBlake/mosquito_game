@@ -25,7 +25,8 @@
 >>├──Draw.py(顯示文字繪製)  
 >>├──sound_a.py(音效處理)  
 >>├──jf.ttf(遊戲使用文字檔)  
->>└──inf.py(僅為在學習時找的相關資料)  
->##作者
+>>└──inf.py(僅為在學習時找的相關資料)
+>>  
+>#作者
 >>**TaurusBlake**  
 >>**email**:shamgarxie@gmail.com
