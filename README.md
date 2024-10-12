@@ -8,7 +8,8 @@
 >>謝謝你們 ^__^
 >>This is a mosquito killing game,  
 >>This project is for my Python learning, although I know that the main development of python is not in games,  
->>But I still want to fulfill my dream of making a small game. Now that I have learned programming language, I still want to make a game.  
+>>But I still want to fulfill my dream of making a small game.  
+>>Now that I have learned programming language, I still want to make a game.  
 >>Everyone is welcome to communicate with me and give me advice.  
 >>All my codes and objects are for learning purposes only, please do not use them for profit.  
 >>If there is any copyright infringement, please notify me at any time for removal.  
