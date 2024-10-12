@@ -8,5 +8,24 @@
 >>謝謝你們 ^__^  
 ># 遊戲畫面
 >><img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView1.png" alt="Editor" width="300">
-<img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView2.png" alt="Editor" width="300">
-<img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView3.png" alt="Editor" width="300">
+>><img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView2.png" alt="Editor" width="300">
+>><img src="https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/GameView3.png" alt="Editor" width="300">  
+># 安裝
+>>直接打包下載即可  
+>>需要pip install pygame
+># 文件說明
+>>├──GameView(簡介圖像)  
+>>├──img(圖片素材)  
+>>├──sound(音效素材)  
+>>├──Game.py(主要遊戲邏輯)  
+>>├──Player.py(玩家遊戲邏輯)  
+>>├──Mosquito.py(蚊子行動邏輯)  
+>>├──Bottle.py(噴霧設計)  
+>>├──Boom.py(陣亡畫面設計)  
+>>├──Draw.py(顯示文字繪製)  
+>>├──sound_a.py(音效處理)  
+>>├──jf.ttf(遊戲使用文字檔)  
+>>└──inf.py(僅為在學習時找的相關資料)  
+>##作者
+>>**TaurusBlake**  
+>>**email**:shamgarxie@gmail.com
