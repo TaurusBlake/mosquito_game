@@ -5,4 +5,6 @@
 >>觀迎大家來跟我交流，並給予我指教。  
 >>我所有的程式碼與物件都僅作為學習使用，請不要用於營利。  
 >>如果有侵犯到版權，請隨時通知我移除。  
->>謝謝你們 ^__^
+>>謝謝你們 ^__^  
+># 遊戲畫面
+>>![GITHUB]( https://github.com/TaurusBlake/Mosquito_game/blob/main/GameView/ "GameView1.png")
